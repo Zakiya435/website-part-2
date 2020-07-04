@@ -22,3 +22,13 @@ h1{
 .item{
     position: relative;
 }
+.item:hover p{
+    opacity: 1;
+}
+.item:hover img{
+    opacity: 0.33;
+}
+.menu a{
+    padding-right: 30px;
+    margin-top: 30px;
+}
